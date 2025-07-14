@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=DM+Serif+Display:ital@0;1&family=Dancing+Script:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="valentine-confession.css">
+        <title>2nd Monthsary</title>
+    </head>
+    <body>
+        <p class="instruction">Click the heart baby!</p>
+        <div class="container">
+            <label>
+            <div class="heart">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg"></img>
+            </div>
+            <input id="messageState" type="checkbox" style="display:none"/>
+            </label>
+            <div class="message">
+                <h1 style="font-family: Cinzel, serif; font-size: 40px; letter-spacing: 1.2px;">Hello Mahal!</h1>
+                <p> 
+                    <span>
+                        &emsp; Hi babyy koo, Happy 2nd Monthsary!, my love i'm so grateful having someone like you in my life, im so thankful and really happy knowing that i have the best Girlfriend ever, i already promise my self na i will never leave you baby and i will keep that promise, to be with you my whole life baby. 
+                    </span>
+                    <br> <br>
+                    <span>
+                        &emsp; Love, mahal na mahal kita palagi, thank you for being there always, sa tuwing napapagod ako nandyan ka para pasiyahin ako at tanggalin ang pagod ko, thank you for your love and care mahal ko. Remember baby i will never get tired of loving adn understanding you okayy? i love you so much babyyy ko.
+                    </span>      
+                </p>
+                <br>
+                <div class="sincere">
+                    <p style="font-weight: bold;">Your lovey,</p>
+                    <p>Jaymhel Grava/</p>
+                 </div>
+            </div>
+        </div>
+        
+        <script src="jquery.js"></script>
+        <script src="jquery2.1.js"></script>
+        <script defer src="valentine-confession.js"></script>
+    </body>
+</html>
+
